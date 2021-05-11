@@ -28,13 +28,11 @@ the aim of reducing food wastage.
 
 -   Jetson is also extensible.
 
-    ![](media/image1.jpeg){width="2.7576541994750654in"
-    height="2.249785651793526in"}
+![](repo_pics/nvidiajets.jpg)
 
 *Camera Module – Raspberry Pi Cam V2*
 
-![](media/image2.png){width="2.00833552055993in"
-height="1.9928565179352582in"}
+![](repo_pics/picam.png)
 
 -   Consists of a Sony IMX219 8-megapixel sensor.
 
@@ -49,8 +47,7 @@ height="1.9928565179352582in"}
 -   Supports 1080p30, 720p60 and VGA90 video modes, as well as still
     capture and attaches via a 15cm ribbon cable to the CSI port
 
-> ![](media/image3.png){width="3.5353193350831145in"
-> height="2.236111111111111in"}
+![](repo_pics/nvpicam.png)
 
 **Frameworks and libraries:**
 
@@ -134,15 +131,11 @@ developers, it takes care of much of the hassle of Web development, so
 you can focus on writing your app without needing to reinvent the wheel.
 It’s free and open source.
 
-![](media/image4.png){width="5.360200131233595in"
-height="2.9166666666666665in"}
+![](repo_pics/webapp.png)
 
 *Android app Using android studio:*
 
-![](media/image5.png){width="1.4027777777777777in"
-height="2.8834886264216975in"}![](media/image6.png){width="1.3918919510061243in"
-height="2.861111111111111in"}![](media/image7.png){width="1.3888888888888888in"
-height="2.854938757655293in"}
+![](repo_pics/andapp.png)
 
 **METHODOLOGY:**
 
@@ -279,13 +272,9 @@ training, the weights are saved for prediction.
 14. Whenever the changes takes place on webapp, the same changes is
     reflected on the android app.
 
-![](media/image8.jpeg){width="2.0645461504811897in" height="1.78125in"}
-![](media/image9.png){width="1.666554024496938in"
-height="3.3020833333333335in"}
-
 Changes on webapp are reflected on android app
 
-*CONTRIBUTION BY GROUP MEMBERS(GROUP 9):*
+*CONTRIBUTION BY TEAM MEMBERS:*
 
 Nehanshu Tripathi – Hardware interfacing, implementation of the CNN
 model and development of a seamless script running on the development
