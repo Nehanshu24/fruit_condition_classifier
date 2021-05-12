@@ -301,4 +301,4 @@ captured. Implementation of a notification system to notify the users
 about the condition of the fruits inside the fridge.
 
 **GITHUB LINK**:
-https://github.com/Nehanshu24/fruit\_condition\_classifier
+https://github.com/Nehanshu24/fruit_condition_classifier
