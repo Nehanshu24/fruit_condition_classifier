@@ -14,6 +14,8 @@ the aim of reducing food wastage.
 
 *Nvidia Jetson*
 
+<img src="https://github.com/Nehanshu24/fruit_condition_classifier/blob/main/repo_pics/nvidiajets.jpg" width="250" height="250">
+
 -   NVIDIA Jetson systems provide the performance and power efficiency
     to run autonomous machines software, faster and with less power.
     Each is a complete System-on-Module (SOM), with CPU, GPU, PMIC,
@@ -28,11 +30,9 @@ the aim of reducing food wastage.
 
 -   Jetson is also extensible.
 
-![](repo_pics/nvidiajets.jpg)
-
 *Camera Module – Raspberry Pi Cam V2*
 
-![](repo_pics/picam.png)
+<img src="https://github.com/Nehanshu24/fruit_condition_classifier/blob/main/repo_pics/picam.png" width="250" height="250">
 
 -   Consists of a Sony IMX219 8-megapixel sensor.
 
@@ -47,7 +47,7 @@ the aim of reducing food wastage.
 -   Supports 1080p30, 720p60 and VGA90 video modes, as well as still
     capture and attaches via a 15cm ribbon cable to the CSI port
 
-![](repo_pics/nvpicam.png)
+<img src="https://github.com/Nehanshu24/fruit_condition_classifier/blob/main/repo_pics/nvpicam.png" width="500" height="250">
 
 **Frameworks and libraries:**
 
@@ -132,6 +132,7 @@ you can focus on writing your app without needing to reinvent the wheel.
 It’s free and open source.
 
 ![](repo_pics/webapp.png)
+
 
 *Android app Using android studio:*
 
@@ -219,6 +220,8 @@ compile our model and then start training it for 30 epochs.After
 training, the weights are saved for prediction.
 
 **STEPS:**
+
+<img src="https://github.com/Nehanshu24/fruit_condition_classifier/blob/main/repo_pics/bd.png">
 
 1.  To use our saved model again, we will load the weights by using the
     load\_model function from keras.
