@@ -301,6 +301,6 @@ captured. Implementation of a notification system to notify the users
 about the condition of the fruits inside the fridge.
 
 **GITHUB LINKS**:
-https://github.com/Nehanshu24/fruit_condition_classifier
+CNN classifier - https://github.com/Nehanshu24/fruit_condition_classifier
 
 Frutsh App repository - https://github.com/lookthisisaddy/FrutshApp
