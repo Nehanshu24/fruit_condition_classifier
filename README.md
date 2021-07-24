@@ -300,5 +300,7 @@ from the web app and displays the image, prediction and time when it was
 captured. Implementation of a notification system to notify the users
 about the condition of the fruits inside the fridge.
 
-**GITHUB LINK**:
+**GITHUB LINKS**:
 https://github.com/Nehanshu24/fruit_condition_classifier
+
+Frutsh App repository - https://github.com/lookthisisaddy/FrutshApp
